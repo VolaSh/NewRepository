@@ -27,3 +27,5 @@ Gott nytt år
 Gott nytt år
 
 Commit-1
+
+Commit-2
